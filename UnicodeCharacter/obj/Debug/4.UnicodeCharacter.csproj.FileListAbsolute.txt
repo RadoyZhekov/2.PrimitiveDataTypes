@@ -1,0 +1,8 @@
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb

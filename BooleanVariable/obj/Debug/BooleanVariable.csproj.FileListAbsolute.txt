@@ -1,0 +1,1 @@
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\BooleanVariable\bin\Debug\BooleanVariable.exe.config

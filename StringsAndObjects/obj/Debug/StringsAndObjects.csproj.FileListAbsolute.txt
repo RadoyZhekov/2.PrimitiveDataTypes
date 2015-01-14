@@ -1,0 +1,5 @@
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

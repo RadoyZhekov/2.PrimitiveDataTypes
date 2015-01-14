@@ -1,0 +1,6 @@
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables\bin\Debug\Primitive-Data-Types-and-Variables.exe.config
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables\bin\Debug\Primitive-Data-Types-and-Variables.exe
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables\bin\Debug\Primitive-Data-Types-and-Variables.pdb
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables\obj\Debug\DeclareVariable.csprojResolveAssemblyReference.cache
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables\obj\Debug\Primitive-Data-Types-and-Variables.exe
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\Primitive-Data-Types-and-Variables\obj\Debug\Primitive-Data-Types-and-Variables.pdb

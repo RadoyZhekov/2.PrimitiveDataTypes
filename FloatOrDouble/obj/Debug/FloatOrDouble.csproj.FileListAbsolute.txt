@@ -1,0 +1,5 @@
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.exe
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\FloatOrDouble\bin\Debug\FloatOrDouble.pdb
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

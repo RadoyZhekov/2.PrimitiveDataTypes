@@ -1,0 +1,8 @@
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\BooleanVariable\bin\Debug\BooleanVariable.exe
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\BooleanVariable\bin\Debug\BooleanVariable.pdb
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\BooleanVariable\obj\Debug\BooleanVariable.exe
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\BooleanVariable\obj\Debug\BooleanVariable.pdb
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\BooleanVariable\obj\Debug\BooleanVariable.exe
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\BooleanVariable\obj\Debug\BooleanVariable.pdb

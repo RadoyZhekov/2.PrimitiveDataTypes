@@ -1,0 +1,1 @@
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config

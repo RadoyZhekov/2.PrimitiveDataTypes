@@ -1,0 +1,6 @@
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\BankAccountData\bin\Debug\BankAccountData.exe.config
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\BankAccountData\bin\Debug\BankAccountData.exe
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\BankAccountData\bin\Debug\BankAccountData.pdb
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\BankAccountData\obj\Debug\11.BankAccountData.csprojResolveAssemblyReference.cache
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\BankAccountData\obj\Debug\BankAccountData.exe
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\BankAccountData\obj\Debug\BankAccountData.pdb

@@ -1,0 +1,3 @@
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\EmployeeData\bin\Debug\EmployeeData.exe.config
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\EmployeeData\bin\Debug\EmployeeData.exe
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\EmployeeData\bin\Debug\EmployeeData.pdb
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\EmployeeData\obj\Debug\10.EmployeeData.csprojResolveAssemblyReference.cache
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\EmployeeData\obj\Debug\EmployeeData.exe
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\EmployeeData\obj\Debug\EmployeeData.pdb

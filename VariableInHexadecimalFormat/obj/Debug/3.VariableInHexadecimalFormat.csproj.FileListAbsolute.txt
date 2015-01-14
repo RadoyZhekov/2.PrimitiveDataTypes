@@ -1,0 +1,12 @@
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\VariableInHexadecimalFormat\obj\Debug\3.VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+D:\Telerik\Training\Primitive-Data-Types-and-Variables\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe.config
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.exe
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\VariableInHexadecimalFormat\obj\Debug\VariableInHexadecimalFormat.pdb
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.exe
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\VariableInHexadecimalFormat\bin\Debug\VariableInHexadecimalFormat.pdb
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\VariableInHexadecimalFormat\obj\Debug\3.VariableInHexadecimalFormat.csprojResolveAssemblyReference.cache

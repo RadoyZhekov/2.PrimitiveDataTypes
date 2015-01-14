@@ -1,0 +1,3 @@
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\FloatOrDouble\bin\Debug\FloatOrDouble.exe.config
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\FloatOrDouble\obj\Debug\FloatOrDouble.exe
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\FloatOrDouble\obj\Debug\FloatOrDouble.pdb

@@ -1,0 +1,6 @@
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe.config
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.exe
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\PrintTheASCIITable\bin\Debug\PrintTheASCIITable.pdb
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\PrintTheASCIITable\obj\Debug\14.PrintTheASCIITable.csprojResolveAssemblyReference.cache
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.exe
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\PrintTheASCIITable\obj\Debug\PrintTheASCIITable.pdb

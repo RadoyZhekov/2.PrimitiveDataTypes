@@ -1,0 +1,6 @@
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe.config
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.pdb
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.csprojResolveAssemblyReference.cache
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
+D:\Telerik\Homeworks\2.PrimitiveDataTypes\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb
